@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/coaled/TenacityForRoblox/main/MainScript.lua", true))()
